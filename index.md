@@ -1,4 +1,4 @@
 ---
 title: My Blog
 ---
-In this blog I write about the long way from teching German as a foreign language to Webdesign and coding.
+In this blog I write about the long way from teaching German as a foreign language to Webdesign and coding.
