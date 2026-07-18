@@ -5,9 +5,9 @@ date: 2026-07-17
 
 In 2025, after a horrible crisis, I realized that either I manage to get into a new career, or I am not able to live on.
 
-It all began with some steps in a white square:
+It all began with some steps in a white square.
 
-In psychiatry, I started to draw a square and didn't know what to draw into this square. Finally I drew some steps of a stair and then I added a cat's tail and a shoe.
+I started to draw a square and didn't know what to draw into this square. Finally I drew some steps of a stair and then I added a cat's tail and a shoe. I drew another square with a foot and a cat's tail. And another one.
 
 Some weeks later I had created a graphic novel. I thought, it would be great to publish this novel in the internet.
 
