@@ -1,5 +1,6 @@
 ---
-title: "The next step" date: 2026-07-29
+title: "The Next Step"
+date: 2026-07-17
 ---
 
 In July 2025, I joined a summer course "Creating Websites with WordPress". 
