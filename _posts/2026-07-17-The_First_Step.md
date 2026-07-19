@@ -1,7 +1,7 @@
 ---
----
 title: "The First Step"
 date: 2026-07-17
+---
 
 In 2025, after a horrible crisis, I realized that either I manage to get into a new career, or I am not able to live on.
 
