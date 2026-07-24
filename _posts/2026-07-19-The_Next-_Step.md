@@ -1,6 +1,6 @@
 ---
 title: "The Next Step"
-date: 2026-07-17
+date: 2026-07-19
 ---
 
 In July 2025, I joined a summer course, "Creating Websites with WordPress". We completed the WP Beginner's course in just two weeks, and after the course, my Website [Züzi-Bildergeschichte](https://zuezi-bildergeschichte.ch) was online. And I was very proud.
