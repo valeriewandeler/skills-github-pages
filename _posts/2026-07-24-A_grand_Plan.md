@@ -1,6 +1,6 @@
 ---
 title: "A grand plan"
-date: 2026-07-17
+date: 2026-07-24
 ---
 
 Now that I had become a WordPress contributor and a student learning to code, I started to think about going into IT as a career. As I talked about this Idea with my Career Counselor, he was very sceptical about this. In the age of AI, there would hardly be any jobs left in this field. Nevertheless, I registered for the programme «Student for a day», to gain more information. I spent a day with a student, met other students and could talk to a professor. Unlike the Career Counsellor, they were very optimistic about the future of programmers.
