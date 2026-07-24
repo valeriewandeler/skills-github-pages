@@ -1,6 +1,6 @@
 ---
 title: "A New Level"
-date: 2026-07-17
+date: 2026-07-21
 ---
 
 In wintertime, as I had become used to doing translations and joining meetings and felt more relaxed with my new occupation, I heard about the idea of starting a learner’s group that was planned to begin in spring. Astonishingly, I was expected to be one of the teachers in this course. I still felt like a WordPress beginner myself and felt quite unsure about this new role.  
