@@ -5,8 +5,8 @@ date: 2026-07-17
 
 In July 2025, I joined a summer course, "Creating Websites with WordPress". We completed the WP Beginner's course in just two weeks, and after the course, my Website <a href="url" target="_blank">https://www.zuezi-bildergeschichte.ch</a> was online. And I was very proud.
 
-The instructor told us a lot about WordPress and shared some insider information with us. He also invited us to contribute to WordPress. I took this chance and started to create all the necessary accounts. I planned to translate the English content — which I had just used to teach myself — into German.
+The instructor told us a lot about WordPress and shared some insider information with us. He also invited us to contribute to WordPress. I took this chance and started to create all the necessary accounts. I planned to translate the English content — which I had just used to teach myself — into German. Translating should be a manageable task for a German teacher.
 
-Translating wasn't all the work. It was also necessary to create thumbnails and translate the subtitles into a TTML document. By translating, I became familiar with a lot of new tools, such as GitHub, Slack, and Figma.
+But the translation wasn't the end of it. It was also necessary to create thumbnails and translate the subtitles into a TTML document. By translating, I became familiar with a lot of new tools, such as GitHub, Slack, and Figma. That's how I discovered that I was capable of things I never thought possible.
 
-I realized that I had finally found an environment where I feel right at home.
+And I realized that I had finally found an environment where I feel right at home.
