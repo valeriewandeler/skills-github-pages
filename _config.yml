@@ -1,3 +1,7 @@
 theme: minima
 title: my blog
 author: valeriewandeler
+
+plugins:
+  - jekyll-feed
+  
