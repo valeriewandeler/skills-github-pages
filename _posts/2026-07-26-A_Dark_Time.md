@@ -5,7 +5,7 @@ date: 2026-07-26
 After this job interview, I bought a book about math and started to learn. I was fully motivated. And full of confidence in my grand plan.
 
 
-Who said it was easy? – It wasn’t that easy. You don’t just need a brain to study. You need need to make a living as well.
+Who said it was easy? – It wasn’t that easy. You don’t just need a brain to study. You need to make a living as well.
 
 
 Unfortunately, a few weeks after the interview, I had to tell the company where I wanted to do the internship 
