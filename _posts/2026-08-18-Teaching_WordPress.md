@@ -1,5 +1,5 @@
 ---
-title: "Teaching WordPress"
+title: "~~Teaching WordPress~~"
 date: 2026-08-18
 ---
 14h
