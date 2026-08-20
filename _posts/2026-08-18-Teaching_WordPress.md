@@ -2,8 +2,7 @@
 title: "Teaching WordPress"
 date: 2026-08-18
 ---
-14h
-The WordPress beginner learning group started on August 28. Today will be the fourth evening. And I am going to be one of the two presenters and teachers, together with Andy. This is a strange feeling for two reasons.
+14h - The WordPress beginner learning group started on August 28. Today will be the fourth evening. And I am going to be one of the two presenters and teachers, together with Andy. This is a strange feeling for two reasons.
 
 First, I’ve been telling people for more than a year that I never ever will be teaching again. And now I am playing the role of the teacher again. I think I am quite a good teacher in the sense that I am good at explaining things. When I was 14 years old, it took me half an hour to teach my five-year-old sister how to read. And once I taught a little boy swimming in just ten minutes. When I practised Karate and was wearing a yellow belt, I had already started teaching beginners with white belts. But there is a crucial skill that I lack. I am surely somewhere on the autism spectrum and neither really interested in other people, nor in curricula.
 
