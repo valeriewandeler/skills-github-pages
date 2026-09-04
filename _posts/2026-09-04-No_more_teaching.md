@@ -35,7 +35,7 @@ And now I am worrying about how I will ever be able to be successful in a job if
 For now, I am trying not to think too much about what went wrong, but to focus on other things. 
 Last Monday, after sending the sad message, I was working on an exercise from the programming course and continued to learn HTML and CSS. 
 In the evening, I went to Rubymontas and had a good time there. 
-I have now finished a CV I wrote in HTML and CSS, and I published it on GitHub. 
+I have now finished a CV I wrote in HTML and CSS, and I published it on GitHub. [Lebenslauf](https://valeriewandeler.github.io/lebenslauf/)
 I am continuing to work on the website for my choir. 
 I am involved in creating an evaluation form for the WordPress study group as well. 
 So, I am not out of the group completely.
