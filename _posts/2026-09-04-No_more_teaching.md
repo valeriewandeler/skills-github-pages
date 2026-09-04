@@ -46,5 +46,5 @@ I reactivated a tool that I used quite often when I was a teacher.
 It is called Wordwall, and it makes it possible to create learning games very easily. 
 In one of my previous posts, I wrote about my wish to have an app like Duolingo for programming languages. 
 As this wish cannot be realised very quickly, I started to create learning games for Ruby with Wordwall. 
-That was fun, and it helped me to learn some things better.
+That was fun, and it helped me to learn some things better. [Lernspiele(https://www.valeriewandeler.ch/lernspiele/)]
 
